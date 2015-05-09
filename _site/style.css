@@ -374,3 +374,11 @@ body {
 .teal {
   color: #219ab3;
 }
+
+.blog-content {
+  padding-top: 100px;
+}
+
+.recent-posts {
+  margin: 0 0 10px;
+}
