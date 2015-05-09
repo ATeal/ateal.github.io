@@ -1,0 +1,15 @@
+# Site settings
+title: "Alex R Teal - Software Engineer"
+email: ARTeal89@gmail.com
+url: http://AlexRTeal.com
+description: "Alex R Teal, a software engineer from Rock Hill, South Carolina. I mainly program in Ruby and Java. Music Lover, Tech Enthusiast."
+keywords: "Alex, Teal, R, Alex Teal, Alex R Teal, Ruby, Rails, Java, Javascript, Ember, API, Software, Engineer, Programmer, Developer, ARTeal, ATeal, Android, Mobile, Tech, Computer, Science, Bachelor"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
