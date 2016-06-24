@@ -8,7 +8,7 @@ to my personal life.
 
 With that I'll say:
 
-{% highlight python linenos %}
+{% highlight ruby linenos %}
 def hello_world
   p "Hello World!"
 end
