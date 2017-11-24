@@ -41,7 +41,7 @@ function init() {
         zoom: 15,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(34.925339, -81.026488), // Rock Hill
+        center: new google.maps.LatLng(35.007606, -80.944208), // Ft. Mill
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
@@ -169,7 +169,7 @@ function init() {
 
     // Custom Map Marker Icon - Customize the map-marker.png file to customize your icon
     var image = "img/map-marker.png";
-    var myLatLng = new google.maps.LatLng(34.925339, -81.026488);
+    var myLatLng = new google.maps.LatLng(35.007606, -80.944208);
     var beachMarker = new google.maps.Marker({
         position: myLatLng,
         map: map,
